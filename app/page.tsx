@@ -407,17 +407,20 @@ export default function Home() {
               <em style={{ fontStyle: "italic" }}>construída com clientes.</em>
             </h2>
             <p style={{ fontSize: 14, color: "#666", lineHeight: 1.9, marginBottom: 18 }}>
-              Desde 2018 atuo no mercado contábil. Antes de fundar o escritório
-              em 2020, fui sócio de outra empresa — e trouxe comigo os primeiros
-              clientes porque a relação de confiança já estava construída.
+              Comecei como office boy aos 15 anos. Aprendi contabilidade de dentro para fora —
+              não em sala de aula, mas no dia a dia de um escritório de verdade. Aos 24, me tornei sócio.
+              Aos 28, saí com 4 clientes: uma oficina, uma indústria, uma confeitaria e um bar.
+              Hoje, três deles ainda estão comigo.
             </p>
             <p style={{ fontSize: 14, color: "#666", lineHeight: 1.9, marginBottom: 18 }}>
-              Hoje somos 20 profissionais atendendo empresas de diferentes
-              setores. Nossa diferença não está em atender todo mundo igual,
-              mas em entender as particularidades de cada negócio.
+              Isso não é sorte. É o que acontece quando a contabilidade deixa de ser obrigação
+              e passa a ser parceria. Cada cliente que fica é prova de que o trabalho foi feito com
+              cuidado, transparência e comprometimento real com o negócio dele.
             </p>
             <p style={{ fontSize: 14, color: "#666", lineHeight: 1.9, marginBottom: 40 }}>
-              Escritório na Av. Rio Branco, 173 — sala 1102, Centro do Rio de Janeiro.
+              Hoje somos uma equipe de 20 profissionais, sediados na Av. Rio Branco, 173 —
+              no coração do Centro do Rio de Janeiro. Atendemos empresas em todo o território nacional,
+              de diferentes setores, com a linguagem de quem conhece cada mercado por dentro.
             </p>
 
             <div style={{ display: "flex", gap: 16 }}>
