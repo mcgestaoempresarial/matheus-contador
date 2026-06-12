@@ -3,7 +3,8 @@
 import Image from "next/image";
 import Link from "next/link";
 
-const WHATSAPP = "https://wa.me/5521967695979";
+const WHATSAPP_LEADS = "https://wa.me/5521967734166";
+const WHATSAPP_CLIENTES = "https://wa.me/5521967695979";
 const INSTAGRAM = "https://instagram.com/matheuscontador";
 
 const momentos = [
@@ -155,7 +156,7 @@ export default function Home() {
             <Link href="/blog" style={{ color: "#666", fontSize: 10, letterSpacing: "1.5px", textTransform: "uppercase", textDecoration: "none" }}>
               Blog
             </Link>
-            <a href={WHATSAPP} target="_blank" rel="noopener noreferrer" style={{
+            <a href={WHATSAPP_LEADS} target="_blank" rel="noopener noreferrer" style={{
               background: "#fff", color: "#0f0f0f", fontSize: 10, letterSpacing: "1.5px",
               textTransform: "uppercase", padding: "10px 20px", textDecoration: "none", fontWeight: 500,
             }}>Falar com especialista</a>
@@ -200,7 +201,7 @@ export default function Home() {
           </p>
 
           <div style={{ display: "flex", gap: 16, flexWrap: "wrap" }}>
-            <a href={WHATSAPP} target="_blank" rel="noopener noreferrer" style={{
+            <a href={WHATSAPP_LEADS} target="_blank" rel="noopener noreferrer" style={{
               background: "#fff", color: "#0f0f0f", fontSize: 11,
               letterSpacing: "2px", textTransform: "uppercase",
               padding: "14px 32px", textDecoration: "none", fontWeight: 500,
@@ -420,7 +421,7 @@ export default function Home() {
             </p>
 
             <div style={{ display: "flex", gap: 16 }}>
-              <a href={WHATSAPP} target="_blank" rel="noopener noreferrer" style={{
+              <a href={WHATSAPP_LEADS} target="_blank" rel="noopener noreferrer" style={{
                 background: "#0f0f0f", color: "#fff", fontSize: 11,
                 letterSpacing: "1.5px", textTransform: "uppercase",
                 padding: "12px 24px", textDecoration: "none",
@@ -464,7 +465,7 @@ export default function Home() {
           </p>
 
           <div style={{ display: "flex", gap: 16, justifyContent: "center", flexWrap: "wrap" }}>
-            <a href={WHATSAPP} target="_blank" rel="noopener noreferrer" style={{
+            <a href={WHATSAPP_LEADS} target="_blank" rel="noopener noreferrer" style={{
               background: "#fff", color: "#0f0f0f", fontSize: 11,
               letterSpacing: "2px", textTransform: "uppercase",
               padding: "16px 40px", textDecoration: "none", fontWeight: 500,
@@ -493,7 +494,7 @@ export default function Home() {
             © {new Date().getFullYear()} Matheus Contador Gestão Empresarial
           </p>
           <div style={{ display: "flex", gap: 24 }}>
-            {[["Instagram", INSTAGRAM], ["WhatsApp", WHATSAPP]].map(([l, h]) => (
+            {[["Instagram", INSTAGRAM], ["WhatsApp", WHATSAPP_CLIENTES]].map(([l, h]) => (
               <a key={l} href={h} target="_blank" rel="noopener noreferrer" style={{
                 fontSize: 10, letterSpacing: "1.5px", textTransform: "uppercase",
                 color: "#444", textDecoration: "none",

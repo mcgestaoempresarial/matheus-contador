@@ -3,7 +3,7 @@ import { getPost, getPosts } from "@/lib/posts";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
-const WHATSAPP = "https://wa.me/5521967695979";
+const WHATSAPP = "https://wa.me/5521967734166";
 
 export async function generateStaticParams() {
   return getPosts().map((p) => ({ slug: p.slug }));
