@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     "Artigos sobre contabilidade, tributação, gestão empresarial e novidades do mercado. Escritório Matheus Contador, Rio de Janeiro.",
 };
 
-const WHATSAPP = "https://wa.me/5521967734166";
+const WHATSAPP = "https://wa.me/5521967695979";
 
 function formatData(d: string) {
   try {

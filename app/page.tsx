@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-const WHATSAPP_LEADS = "https://wa.me/5521967734166";
+const WHATSAPP_LEADS = "https://wa.me/5521967695979";
 const WHATSAPP_CLIENTES = "https://wa.me/5521967695979";
 const INSTAGRAM = "https://instagram.com/matheuscontador";
 
