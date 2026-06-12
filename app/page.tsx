@@ -146,7 +146,7 @@ export default function Home() {
             </div>
           </a>
 
-          <div style={{ display: "flex", gap: 32, alignItems: "center" }}>
+          <div className="nav-links" style={{ display: "flex", gap: 32, alignItems: "center" }}>
             {[["Serviços","#servicos"],["Setores","#setores"],["Sobre","#sobre"]].map(([l,h])=>(
               <a key={l} href={h} style={{
                 color: "#666", fontSize: 10, letterSpacing: "1.5px",
@@ -217,14 +217,14 @@ export default function Home() {
 
       {/* ── STATS ───────────────────────────────────────── */}
       <section style={{ background: "#f7f7f5", borderBottom: "1px solid #e5e5e5" }}>
-        <div style={{
+        <div className="stats-grid" style={{
           maxWidth: 1200, margin: "0 auto",
           display: "grid", gridTemplateColumns: "repeat(4, 1fr)",
         }}>
           {[
             { num: "Clientes que ficam.", label: "relacionamentos de longa data" },
             { num: "20+", label: "profissionais" },
-            { num: "2018", label: "anos de experiência" },
+            { num: "Desde 2018", label: "no mercado" },
             { num: "Nacional", label: "Atendimento em todo o Brasil" },
           ].map((s, i) => (
             <div key={i} style={{
@@ -263,7 +263,7 @@ export default function Home() {
             nossa equipe conhece o caminho.
           </p>
 
-          <div style={{
+          <div className="momentos-grid" style={{
             display: "grid", gridTemplateColumns: "repeat(2, 1fr)",
             gap: 1, background: "#e5e5e5", border: "1px solid #e5e5e5",
           }}>
@@ -302,7 +302,7 @@ export default function Home() {
             O que fazemos
           </h2>
 
-          <div style={{
+          <div className="servicos-grid" style={{
             display: "grid", gridTemplateColumns: "repeat(3, 1fr)",
             border: "1px solid #e5e5e5",
           }}>
@@ -346,7 +346,7 @@ export default function Home() {
             Não tratamos todos os negócios da mesma forma.
           </p>
 
-          <div style={{
+          <div className="setores-grid" style={{
             display: "grid", gridTemplateColumns: "repeat(3, 1fr)",
             border: "1px solid #2a2a2a",
           }}>
@@ -373,7 +373,7 @@ export default function Home() {
 
       {/* ── SOBRE ───────────────────────────────────────── */}
       <section id="sobre" style={{ padding: "96px 32px" }}>
-        <div style={{
+        <div className="sobre-grid" style={{
           maxWidth: 1200, margin: "0 auto",
           display: "grid", gridTemplateColumns: "1fr 1fr",
           gap: 80, alignItems: "center",
@@ -473,7 +473,7 @@ export default function Home() {
               letterSpacing: "2px", textTransform: "uppercase",
               padding: "16px 40px", textDecoration: "none", fontWeight: 500,
             }}>Falar no WhatsApp</a>
-            <a href="mailto:contato@matheuscontador.com.br" style={{
+            <a href="mailto:matheus@ramoselopescontabilidade.com.br" style={{
               background: "transparent", color: "#fff", fontSize: 11,
               letterSpacing: "2px", textTransform: "uppercase",
               padding: "16px 40px", textDecoration: "none", border: "1px solid #2a2a2a",

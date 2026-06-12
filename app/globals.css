@@ -37,3 +37,37 @@ body {
   background: #0f0f0f;
   color: #ffffff;
 }
+
+/* ── MOBILE ─────────────────────────────────────── */
+@media (max-width: 768px) {
+  /* Nav — esconde links, mostra só logo + botão WPP */
+  nav .nav-links { display: none !important; }
+  nav .nav-wpp { padding: 8px 14px !important; font-size: 9px !important; }
+
+  /* Hero */
+  section.hero { padding-top: 100px !important; padding-bottom: 64px !important; padding-left: 20px !important; padding-right: 20px !important; min-height: auto !important; }
+
+  /* Stats bar — 2 colunas */
+  .stats-grid { grid-template-columns: repeat(2, 1fr) !important; }
+
+  /* Momentos — 1 coluna */
+  .momentos-grid { grid-template-columns: 1fr !important; }
+
+  /* Serviços — 1 coluna */
+  .servicos-grid { grid-template-columns: 1fr !important; }
+
+  /* Setores — 1 coluna */
+  .setores-grid { grid-template-columns: 1fr !important; }
+
+  /* Sobre — 1 coluna, foto em cima */
+  .sobre-grid { grid-template-columns: 1fr !important; }
+
+  /* Blog destaque — 1 coluna */
+  .blog-destaque { grid-template-columns: 1fr !important; }
+
+  /* Blog grid — 1 coluna */
+  .blog-grid { grid-template-columns: 1fr !important; }
+
+  /* Padding geral das seções */
+  section { padding-left: 20px !important; padding-right: 20px !important; }
+}
