@@ -194,9 +194,9 @@ export default function Home() {
           </h1>
 
           <p style={{ fontSize: 15, color: "#777", lineHeight: 1.9, maxWidth: 500, marginBottom: 48 }}>
-            Escritório com 20 profissionais, 315 clientes ativos e presença em
-            Rio de Janeiro. Atendemos empresas de diferentes setores com a
-            linguagem de quem conhece cada mercado.
+            Escritório com 20 profissionais e presença em Rio de Janeiro.
+            Atendemos empresas de diferentes setores com a linguagem de quem
+            conhece cada mercado.
           </p>
 
           <div style={{ display: "flex", gap: 16, flexWrap: "wrap" }}>
@@ -411,7 +411,7 @@ export default function Home() {
               clientes porque a relação de confiança já estava construída.
             </p>
             <p style={{ fontSize: 14, color: "#666", lineHeight: 1.9, marginBottom: 18 }}>
-              Hoje somos 20 profissionais atendendo 315 clientes de diferentes
+              Hoje somos 20 profissionais atendendo empresas de diferentes
               setores. Nossa diferença não está em atender todo mundo igual,
               mas em entender as particularidades de cada negócio.
             </p>
