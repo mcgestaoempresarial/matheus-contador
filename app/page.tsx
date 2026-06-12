@@ -195,9 +195,9 @@ export default function Home() {
           </h1>
 
           <p style={{ fontSize: 15, color: "#777", lineHeight: 1.9, maxWidth: 500, marginBottom: 48 }}>
-            Escritório com 20 profissionais e presença em Rio de Janeiro.
-            Atendemos empresas de diferentes setores com a linguagem de quem
-            conhece cada mercado.
+            Escritório com 20 profissionais, sediado no Rio de Janeiro.
+            Atendemos empresas de diferentes setores em todo o território
+            nacional com a linguagem de quem conhece cada mercado.
           </p>
 
           <div style={{ display: "flex", gap: 16, flexWrap: "wrap" }}>
@@ -225,7 +225,7 @@ export default function Home() {
             { num: "Clientes que ficam.", label: "relacionamentos de longa data" },
             { num: "20", label: "profissionais" },
             { num: "2018", label: "anos de experiência" },
-            { num: "RJ", label: "Av. Rio Branco, Centro" },
+            { num: "Nacional", label: "Atendimento em todo o Brasil" },
           ].map((s, i) => (
             <div key={i} style={{
               padding: "32px 24px", textAlign: "center",
