@@ -194,10 +194,10 @@ export default function Home() {
             negócio.
           </h1>
 
-          <p style={{ fontSize: 15, color: "#777", lineHeight: 1.9, maxWidth: 500, marginBottom: 48 }}>
-            Escritório com 20 profissionais, sediado no Rio de Janeiro.
-            Atendemos empresas de diferentes setores em todo o território
-            nacional com a linguagem de quem conhece cada mercado.
+          <p style={{ fontSize: 15, color: "#777", lineHeight: 1.9, maxWidth: 520, marginBottom: 48 }}>
+            Comecei como office boy aos 15 anos. Aos 28, saí com 4 clientes.
+            Hoje, três deles ainda estão comigo — e isso diz tudo sobre
+            como fazemos contabilidade.
           </p>
 
           <div style={{ display: "flex", gap: 16, flexWrap: "wrap" }}>
