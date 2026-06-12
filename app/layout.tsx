@@ -18,22 +18,22 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Matheus Contador — Gestão Empresarial para o Mercado Food",
+  title: "Matheus Contador — Gestão Empresarial",
   description:
-    "Escritório de contabilidade especializado no mercado food. 315 clientes, 100+ empresas do setor alimentício. Rio de Janeiro.",
+    "Escritório de contabilidade com atendimento em todo o território nacional. Especialistas em contabilidade, planejamento tributário e gestão empresarial. Rio de Janeiro.",
   keywords: [
     "contabilidade",
-    "mercado food",
-    "restaurante",
     "contador",
     "rio de janeiro",
     "gestão empresarial",
-    "CMV",
+    "planejamento tributário",
+    "abertura de empresa",
+    "MEI",
     "folha de pagamento",
   ],
   openGraph: {
     title: "Matheus Contador — Gestão Empresarial",
-    description: "Especialista em contabilidade para o mercado food.",
+    description: "Contabilidade que entende o seu negócio. Atendimento em todo o Brasil.",
     locale: "pt_BR",
     type: "website",
   },
@@ -49,6 +49,10 @@ export default function RootLayout({
       lang="pt-BR"
       className={`${cormorant.variable} ${inter.variable}`}
     >
+      <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-HDLLZJXJDC" />
+        <script dangerouslySetInnerHTML={{ __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-HDLLZJXJDC');` }} />
+      </head>
       <body className="antialiased">{children}</body>
     </html>
   );
