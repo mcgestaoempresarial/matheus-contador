@@ -223,7 +223,7 @@ export default function Home() {
         }}>
           {[
             { num: "Clientes que ficam.", label: "relacionamentos de longa data" },
-            { num: "20", label: "profissionais" },
+            { num: "20+", label: "profissionais" },
             { num: "2018", label: "anos de experiência" },
             { num: "Nacional", label: "Atendimento em todo o Brasil" },
           ].map((s, i) => (
@@ -418,7 +418,7 @@ export default function Home() {
               cuidado, transparência e comprometimento real com o negócio dele.
             </p>
             <p style={{ fontSize: 14, color: "#666", lineHeight: 1.9, marginBottom: 40 }}>
-              Hoje somos uma equipe de 20 profissionais, sediados na Av. Rio Branco, 173 —
+              Hoje somos uma equipe com algumas dezenas de profissionais, sediados na Av. Rio Branco, 173 —
               no coração do Centro do Rio de Janeiro. Atendemos empresas em todo o território nacional,
               de diferentes setores, com a linguagem de quem conhece cada mercado por dentro.
             </p>
