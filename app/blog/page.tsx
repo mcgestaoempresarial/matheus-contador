@@ -165,7 +165,7 @@ export default function BlogPage() {
 
       {/* IMPRENSA */}
       {imprensa.length > 0 && (
-        <section style={{ background: "#f7f7f5", padding: "64px 32px" }}>
+        <section id="imprensa" style={{ background: "#f7f7f5", padding: "64px 32px" }}>
           <div style={{ maxWidth: 1200, margin: "0 auto" }}>
             <p style={{ fontSize: 10, letterSpacing: "3px", textTransform: "uppercase", color: "#888", marginBottom: 12 }}>
               Na imprensa
