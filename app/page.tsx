@@ -146,20 +146,22 @@ export default function Home() {
             </div>
           </a>
 
-          <div className="nav-links" style={{ display: "flex", gap: 32, alignItems: "center" }}>
-            {[["Serviços","#servicos"],["Setores","#setores"],["Sobre","#sobre"]].map(([l,h])=>(
-              <a key={l} href={h} style={{
-                color: "#666", fontSize: 10, letterSpacing: "1.5px",
-                textTransform: "uppercase", textDecoration: "none",
-              }}>{l}</a>
-            ))}
+          <div style={{ display: "flex", gap: 24, alignItems: "center" }}>
+            <div className="nav-links" style={{ display: "flex", gap: 24, alignItems: "center" }}>
+              {[["Serviços","#servicos"],["Setores","#setores"],["Sobre","#sobre"]].map(([l,h])=>(
+                <a key={l} href={h} style={{
+                  color: "#666", fontSize: 10, letterSpacing: "1.5px",
+                  textTransform: "uppercase", textDecoration: "none",
+                }}>{l}</a>
+              ))}
+            </div>
             <Link href="/blog" style={{ color: "#666", fontSize: 10, letterSpacing: "1.5px", textTransform: "uppercase", textDecoration: "none" }}>
               Blog
             </Link>
             <Link href="/blog#imprensa" style={{ color: "#666", fontSize: 10, letterSpacing: "1.5px", textTransform: "uppercase", textDecoration: "none" }}>
               Imprensa
             </Link>
-            <a href={WHATSAPP_LEADS} target="_blank" rel="noopener noreferrer" style={{
+            <a href={WHATSAPP_LEADS} target="_blank" rel="noopener noreferrer" className="nav-wpp" style={{
               background: "#fff", color: "#0f0f0f", fontSize: 10, letterSpacing: "1.5px",
               textTransform: "uppercase", padding: "10px 20px", textDecoration: "none", fontWeight: 500,
             }}>Falar com especialista</a>
