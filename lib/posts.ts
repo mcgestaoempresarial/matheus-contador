@@ -43,11 +43,28 @@ export function getPosts(): Post[] {
         conteudo: content,
       };
     })
+    .filter((p) => p.data <= new Date().toISOString().slice(0, 10))
     .sort((a, b) => (a.data > b.data ? -1 : 1));
 }
 
 export function getPost(slug: string): Post | undefined {
-  return getPosts().find((p) => p.slug === slug);
+  // getPost busca em todos os posts, incluindo futuros, para o slug funcionar
+  const files = fs.readdirSync(blogDir).filter((f) => f.endsWith(".md"));
+  const all = files.map((file) => {
+    const raw = fs.readFileSync(path.join(blogDir, file), "utf8");
+    const { data, content } = matter(raw);
+    return {
+      slug: data.slug || file.replace(".md", ""),
+      titulo: data.titulo,
+      resumo: data.resumo,
+      categoria: data.categoria,
+      data: data.data?.toString() ?? "",
+      autor: data.autor,
+      destaque: data.destaque ?? false,
+      conteudo: content,
+    };
+  });
+  return all.find((p) => p.slug === slug);
 }
 
 export function getImprensa(): Imprensa[] {

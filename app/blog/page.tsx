@@ -2,6 +2,8 @@ import Link from "next/link";
 import { getPosts, getImprensa } from "@/lib/posts";
 import type { Metadata } from "next";
 
+export const revalidate = 3600;
+
 export const metadata: Metadata = {
   title: "Blog & Imprensa — Matheus Contador",
   description:
