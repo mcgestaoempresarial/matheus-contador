@@ -158,7 +158,7 @@ export default function Home() {
             <Link href="/blog" style={{ color: "#666", fontSize: 10, letterSpacing: "1.5px", textTransform: "uppercase", textDecoration: "none" }}>
               Blog
             </Link>
-            <Link href="/blog#imprensa" style={{ color: "#666", fontSize: 10, letterSpacing: "1.5px", textTransform: "uppercase", textDecoration: "none" }}>
+            <Link href="/imprensa" style={{ color: "#666", fontSize: 10, letterSpacing: "1.5px", textTransform: "uppercase", textDecoration: "none" }}>
               Imprensa
             </Link>
             <a href={WHATSAPP_LEADS} target="_blank" rel="noopener noreferrer" className="nav-wpp" style={{
