@@ -67,6 +67,8 @@ export default function BlogPage() {
             <Link href="/#servicos" style={{ color: "#666", fontSize: 10, letterSpacing: "1.5px", textTransform: "uppercase", textDecoration: "none" }}>Serviços</Link>
             <Link href="/#setores" style={{ color: "#666", fontSize: 10, letterSpacing: "1.5px", textTransform: "uppercase", textDecoration: "none" }}>Setores</Link>
             <Link href="/blog" style={{ color: "#fff", fontSize: 10, letterSpacing: "1.5px", textTransform: "uppercase", textDecoration: "none" }}>Blog</Link>
+            <Link href="/imprensa" style={{ color: "#666", fontSize: 10, letterSpacing: "1.5px", textTransform: "uppercase", textDecoration: "none" }}>Imprensa</Link>
+            <Link href="/ebook" style={{ color: "#fff", fontSize: 10, letterSpacing: "1.5px", textTransform: "uppercase", textDecoration: "none", border: "1px solid #2a2a2a", padding: "10px 16px" }}>Ebooks Grátis</Link>
             <a href={WHATSAPP} target="_blank" rel="noopener noreferrer" style={{
               background: "#fff", color: "#0f0f0f", fontSize: 10, letterSpacing: "1.5px",
               textTransform: "uppercase", padding: "10px 20px", textDecoration: "none", fontWeight: 500,
