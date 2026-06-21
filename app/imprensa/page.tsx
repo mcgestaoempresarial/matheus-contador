@@ -119,11 +119,7 @@ export default function ImprensaPage() {
                     background: "#fff", padding: "32px",
                     display: "grid", gridTemplateColumns: "200px 1fr auto",
                     gap: 32, alignItems: "center",
-                    transition: "background 0.15s",
-                  }}
-                    onMouseEnter={(e) => (e.currentTarget.style.background = "#fafafa")}
-                    onMouseLeave={(e) => (e.currentTarget.style.background = "#fff")}
-                  >
+                  }}>
                     {/* LOGO / VEÍCULO */}
                     <div style={{
                       border: "1px solid #e5e5e5", padding: "16px 20px",
@@ -187,10 +183,7 @@ export default function ImprensaPage() {
                   <div style={{
                     background: "#f7f7f5", padding: "32px",
                     display: "flex", flexDirection: "column", gap: 16, height: "100%",
-                  }}
-                    onMouseEnter={(e) => (e.currentTarget.style.background = "#f0f0ee")}
-                    onMouseLeave={(e) => (e.currentTarget.style.background = "#f7f7f5")}
-                  >
+                  }}>
                     <div style={{
                       border: "1px solid #e5e5e5", padding: "12px 16px",
                       display: "inline-flex", alignItems: "center", justifyContent: "center",
