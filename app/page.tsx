@@ -447,36 +447,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── GALERIA EQUIPE ──────────────────────────────── */}
-      <section style={{ background: "#f7f7f5", padding: "0 0 96px" }}>
-        <div style={{ maxWidth: 1200, margin: "0 auto", padding: "0 32px" }}>
-          <p style={{ fontSize: 10, letterSpacing: "3px", textTransform: "uppercase", color: "#888", marginBottom: 32, paddingTop: 64 }}>
-            Nossa equipe
-          </p>
-          <div style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(3, 1fr)",
-            gap: 4,
-          }}>
-            <div style={{ gridColumn: "span 2", aspectRatio: "16/9", overflow: "hidden", position: "relative" }}>
-              <Image src="/equipe/equipe-1.jpg" alt="Equipe MC Gestão Empresarial" fill style={{ objectFit: "cover" }} />
-            </div>
-            <div style={{ aspectRatio: "4/5", overflow: "hidden", position: "relative", gridRow: "span 2" }}>
-              <Image src="/equipe/equipe-4.jpg" alt="Equipe MC Gestão Empresarial" fill style={{ objectFit: "cover" }} />
-            </div>
-            <div style={{ aspectRatio: "4/3", overflow: "hidden", position: "relative" }}>
-              <Image src="/equipe/equipe-2.jpg" alt="Equipe MC Gestão Empresarial" fill style={{ objectFit: "cover" }} />
-            </div>
-            <div style={{ aspectRatio: "4/3", overflow: "hidden", position: "relative" }}>
-              <Image src="/equipe/equipe-3.jpg" alt="Equipe MC Gestão Empresarial" fill style={{ objectFit: "cover" }} />
-            </div>
-            <div style={{ aspectRatio: "4/3", overflow: "hidden", position: "relative" }}>
-              <Image src="/equipe/equipe-5.jpg" alt="Escritório MC Gestão Empresarial" fill style={{ objectFit: "cover" }} />
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* ── CTA FINAL ───────────────────────────────────── */}
       <section style={{ background: "#0f0f0f", padding: "100px 32px" }}>
         <div style={{ maxWidth: 800, margin: "0 auto", textAlign: "center" }}>
