@@ -2,6 +2,12 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 
+function toDateStr(val: unknown): string {
+  if (!val) return "";
+  if (val instanceof Date) return val.toISOString().slice(0, 10);
+  return String(val);
+}
+
 const blogDir = path.join(process.cwd(), "content/blog");
 const imprensaDir = path.join(process.cwd(), "content/imprensa");
 
@@ -37,7 +43,7 @@ export function getPosts(): Post[] {
         titulo: data.titulo,
         resumo: data.resumo,
         categoria: data.categoria,
-        data: data.data?.toString() ?? "",
+        data: toDateStr(data.data),
         autor: data.autor,
         destaque: data.destaque ?? false,
         conteudo: content,
@@ -58,7 +64,7 @@ export function getPost(slug: string): Post | undefined {
       titulo: data.titulo,
       resumo: data.resumo,
       categoria: data.categoria,
-      data: data.data?.toString() ?? "",
+      data: toDateStr(data.data),
       autor: data.autor,
       destaque: data.destaque ?? false,
       conteudo: content,
@@ -78,7 +84,7 @@ export function getImprensa(): Imprensa[] {
         slug: file.replace(".md", ""),
         titulo: data.titulo,
         veiculo: data.veiculo,
-        data: data.data?.toString() ?? "",
+        data: toDateStr(data.data),
         link: data.link ?? "",
         tipo: data.tipo ?? "materia",
         resumo: data.resumo,
