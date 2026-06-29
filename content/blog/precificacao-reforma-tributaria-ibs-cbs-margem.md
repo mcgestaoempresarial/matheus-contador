@@ -3,7 +3,7 @@ titulo: "Como recalcular o preço do seu produto com a Reforma Tributária sem p
 slug: precificacao-reforma-tributaria-ibs-cbs-margem
 resumo: "Com o IBS e a CBS, o custo efetivo dos seus insumos muda. Quem não recalcular o preço antes de 2027 vai descobrir a diferença quando a margem começar a desaparecer."
 categoria: Planejamento Tributário
-data: 2026-07-03
+data: 2026-06-28
 autor: Matheus Contador
 destaque: false
 ---

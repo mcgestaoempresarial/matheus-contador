@@ -3,7 +3,7 @@ titulo: "Simples Nacional e a Reforma Tributária: o que muda para quem está no
 slug: simples-nacional-reforma-tributaria-2027
 resumo: "O Simples Nacional continua existindo, mas a Reforma muda a lógica de créditos tributários de um jeito que afeta diretamente quem vende para outras empresas."
 categoria: Reforma Tributária
-data: 2026-06-30
+data: 2026-06-28
 autor: Matheus Contador
 destaque: false
 ---

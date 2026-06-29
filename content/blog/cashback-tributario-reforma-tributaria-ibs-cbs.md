@@ -3,7 +3,7 @@ titulo: "Cashback tributário: o benefício da Reforma que ninguém está explic
 slug: cashback-tributario-reforma-tributaria-ibs-cbs
 resumo: "A Reforma Tributária criou um mecanismo de devolução de imposto para consumidores de baixa renda. Entenda o que é o cashback tributário e como ele afeta o seu negócio."
 categoria: Reforma Tributária
-data: 2026-07-02
+data: 2026-06-28
 autor: Matheus Contador
 destaque: false
 ---

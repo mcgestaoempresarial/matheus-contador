@@ -3,7 +3,7 @@ titulo: "Split payment: o que é e por que vai mudar a forma como o dinheiro ent
 slug: split-payment-ibs-cbs-empresario-2027
 resumo: "Com o split payment, o imposto sai na hora da venda — antes de chegar na sua conta. Entenda o que muda no fluxo de caixa de qualquer negócio que recebe por cartão."
 categoria: Reforma Tributária
-data: 2026-06-29
+data: 2026-06-28
 autor: Matheus Contador
 destaque: false
 ---

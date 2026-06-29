@@ -3,7 +3,7 @@ titulo: "Lucro Real ou Lucro Presumido: qual regime vai valer mais a pena depois
 slug: lucro-real-presumido-reforma-tributaria-2027
 resumo: "Com a entrada do IBS e da CBS, a escolha entre Lucro Real e Lucro Presumido ficou mais estratégica. A decisão certa agora pode reduzir a carga tributária durante toda a transição."
 categoria: Planejamento Tributário
-data: 2026-07-01
+data: 2026-06-28
 autor: Matheus Contador
 destaque: false
 ---
