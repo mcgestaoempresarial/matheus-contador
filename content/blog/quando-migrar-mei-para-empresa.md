@@ -5,7 +5,7 @@ resumo: "O MEI tem limites. Quando você ultrapassa o faturamento, contrata func
 categoria: MEI & Abertura de Empresa
 data: 2025-06-01
 autor: Matheus Contador
-destaque: true
+destaque: false
 ---
 
 O MEI foi criado para formalizar pequenos empreendedores com simplicidade. Mas ele tem um teto — e quando você começa a crescer, ficar no MEI pode custar mais caro do que migrar.

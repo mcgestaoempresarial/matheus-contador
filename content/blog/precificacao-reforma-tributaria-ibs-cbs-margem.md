@@ -5,7 +5,7 @@ resumo: "Com o IBS e a CBS, o custo efetivo dos seus insumos muda. Quem não rec
 categoria: Planejamento Tributário
 data: 2026-06-28
 autor: Matheus Contador
-destaque: false
+destaque: true
 ---
 
 Tem uma pergunta que todo empresário vai precisar responder nos próximos dois anos, e a maioria ainda não começou a pensar nela: quanto vai custar o meu produto depois da Reforma Tributária?
