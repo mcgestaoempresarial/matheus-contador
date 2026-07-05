@@ -3,7 +3,7 @@ titulo: "IBS e CBS na nota fiscal: o que muda para restaurantes em agosto de 202
 slug: ibs-cbs-nota-fiscal-agosto-2026-restaurante
 resumo: "A partir de 3 de agosto, o preenchimento de IBS e CBS passa a ser obrigatório nas notas fiscais eletrônicas. Quem não se preparar vai enfrentar rejeição de NF-e e multa."
 categoria: Reforma Tributária
-data: 2026-07-07
+data: 2026-07-05
 autor: Matheus Contador
 destaque: false
 ---

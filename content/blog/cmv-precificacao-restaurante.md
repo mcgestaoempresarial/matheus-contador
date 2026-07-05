@@ -3,7 +3,7 @@ titulo: "CMV e precificação para restaurante: como calcular e parar de perder 
 slug: cmv-precificacao-restaurante
 resumo: "Se você nunca calculou o CMV do seu restaurante, existe uma boa chance de que esteja vendendo pratos no prejuízo sem saber. Veja como calcular e usar esse número para precificar certo."
 categoria: Gestão Financeira
-data: 2026-07-12
+data: 2026-07-05
 autor: Matheus Contador
 destaque: false
 ---

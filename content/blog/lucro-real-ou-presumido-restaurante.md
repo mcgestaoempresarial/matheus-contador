@@ -3,7 +3,7 @@ titulo: "Lucro Real ou Lucro Presumido: qual é o melhor regime para o seu resta
 slug: lucro-real-ou-presumido-restaurante
 resumo: "Qual regime tributário paga menos imposto para restaurante? A resposta depende do seu negócio — e a maioria dos donos nunca fez essa conta."
 categoria: Planejamento Tributário
-data: 2026-07-10
+data: 2026-07-05
 autor: Matheus Contador
 destaque: false
 ---

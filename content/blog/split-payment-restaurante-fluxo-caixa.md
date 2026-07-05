@@ -3,7 +3,7 @@ titulo: "Split payment: o que é e como vai afetar o caixa do seu restaurante"
 slug: split-payment-restaurante-fluxo-caixa
 resumo: "Com o split payment, o imposto é retido antes de o dinheiro chegar na sua conta. A maioria dos donos de restaurante ainda não entendeu o impacto prático no fluxo de caixa."
 categoria: Reforma Tributária
-data: 2026-07-09
+data: 2026-07-05
 autor: Matheus Contador
 destaque: false
 ---

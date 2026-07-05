@@ -3,7 +3,7 @@ titulo: "Por que seu restaurante vende bem mas não dá lucro"
 slug: restaurante-vende-bem-nao-da-lucro
 resumo: "82% dos restaurantes que fecham tinham movimento de sobra. Fecharam por falta de gestão — não por falta de cliente. Esses são os erros que fazem o caixa sumir."
 categoria: Gestão Financeira
-data: 2026-07-08
+data: 2026-07-05
 autor: Matheus Contador
 destaque: false
 ---

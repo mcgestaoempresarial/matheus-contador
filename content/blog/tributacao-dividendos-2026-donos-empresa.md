@@ -3,7 +3,7 @@ titulo: "Tributação de dividendos em 2026: o que mudou para donos de empresa"
 slug: tributacao-dividendos-2026-donos-empresa
 resumo: "Desde janeiro de 2026, a distribuição de lucros acima de R$ 50 mil por mês passou a ter imposto retido na fonte. A maioria dos donos de empresa ainda não se adaptou."
 categoria: Planejamento Tributário
-data: 2026-07-11
+data: 2026-07-05
 autor: Matheus Contador
 destaque: false
 ---
