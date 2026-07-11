@@ -64,6 +64,6 @@ Com esses dados, seu contador calcula o valor exato antes que a decisão seja to
 
 O pagamento das verbas rescisórias precisa ser feito em até dez dias corridos após o término do contrato. Atraso no pagamento gera multa de um salário adicional para o funcionário.
 
-A rescisão precisa ser homologada — assinada pelo funcionário, preferencialmente com acompanhamento de advogado ou pelo sindicato da categoria. Rescisão mal assinada é risco de ação trabalhista.
+A rescisão precisa ser homologada e assinada pelo funcionário, preferencialmente com acompanhamento de advogado ou pelo sindicato da categoria. Rescisão mal assinada é risco de ação trabalhista.
 
 Entre em contato com a MC Gestão Empresarial antes de demitir. A equipe calcula o custo exato da rescisão, orienta sobre o tipo correto de desligamento e cuida de toda a documentação para que o processo seja feito sem risco de passivo trabalhista.
