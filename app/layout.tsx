@@ -50,6 +50,7 @@ export default function RootLayout({
       className={`${cormorant.variable} ${inter.variable}`}
     >
       <head>
+        <meta name="google-site-verification" content="kMH7uvSpkFlXoTAeo6t2KvbRafpq_Wa9l1cquxKtkoM" />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-HDLLZJXJDC" />
         <script dangerouslySetInnerHTML={{ __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-HDLLZJXJDC');` }} />
       </head>
