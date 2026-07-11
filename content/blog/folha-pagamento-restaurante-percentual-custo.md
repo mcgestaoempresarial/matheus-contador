@@ -30,7 +30,7 @@ Veja o exemplo de um funcionário com salário base de R$ 2.000:
 | Provisão 1/3 férias | R$ 2.000,00 | 2,78% | R$ 55,56 | 2,78% |
 | FGTS sobre 13º e férias | R$ 388,90 | 8% | R$ 31,11 | 1,56% |
 | Provisão multa 40% FGTS | R$ 191,11 | 40% | R$ 76,44 | 3,82% |
-| **Custo total** | | | **R$ 2.656,45** | **+32,82%** |
+| Custo total | | | R$ 2.656,45 | +32,82% |
 
 **Lucro Presumido e Lucro Real**
 
@@ -44,7 +44,7 @@ Veja o exemplo de um funcionário com salário base de R$ 2.000:
 | Provisão 1/3 férias | R$ 2.000,00 | 2,78% | R$ 55,56 | 2,78% |
 | FGTS sobre 13º e férias | R$ 388,90 | 8% | R$ 31,11 | 1,56% |
 | Provisão multa 40% FGTS | R$ 191,11 | 40% | R$ 76,44 | 3,82% |
-| **Custo total** | | | **R$ 3.156,45** | **+57,82%** |
+| Custo total | | | R$ 3.156,45 | +57,82% |
 
 No Simples Nacional, o funcionário de R$ 2.000 custa R$ 2.656 por mês, ou seja, 32,82% a mais que o salário base. No Lucro Presumido e no Lucro Real, o mesmo funcionário custa R$ 3.156, representando 57,82% a mais.
 
