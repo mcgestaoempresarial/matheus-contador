@@ -8,7 +8,7 @@ autor: Matheus Contador
 destaque: false
 ---
 
-A Reforma Tributária não cria só IBS e CBS. Cria também o Imposto Seletivo — e ele vai direto para uma das maiores fontes de margem de bares e restaurantes: as bebidas.
+A Reforma Tributária não cria só IBS e CBS. Cria também o Imposto Seletivo, e ele vai direto para uma das maiores fontes de margem de bares e restaurantes: as bebidas.
 
 Cerveja, vinho, destilados, refrigerantes, energéticos. Se a sua operação depende da venda de bebidas para fechar o mês no azul, você precisa entender o que está vindo.
 
@@ -20,7 +20,7 @@ Não é uma ideia nova. O IPI já faz isso para cigarros e bebidas alcoólicas. 
 
 ## O que entra na lista para o food
 
-Bebidas alcoólicas são o principal item para o setor. Cervejas, vinhos, destilados, coquetéis prontos — todos entram na lista do Imposto Seletivo. A alíquota varia por tipo de produto e grau alcoólico.
+Bebidas alcoólicas são o principal item para o setor. Cervejas, vinhos, destilados e coquetéis prontos entram na lista do Imposto Seletivo. A alíquota varia por tipo de produto e grau alcoólico.
 
 Bebidas açucaradas também estão incluídas. Refrigerantes, sucos industrializados com açúcar adicionado e energéticos entram na lista, embora com alíquotas menores do que as bebidas alcoólicas.
 
@@ -32,7 +32,7 @@ O Imposto Seletivo não gera crédito para o comprador. Diferente do IBS e da CB
 
 Para um bar que tem 40% do faturamento em bebidas alcoólicas, um aumento de tributação sobre esses produtos afeta diretamente a margem. O preço de compra do distribuidor vai subir à medida que o IS entrar em vigor, e a decisão de repassar ou não para o cliente é do dono do negócio.
 
-Distribuidoras de bebidas são as mais impactadas na cadeia. Elas compram volume, estocam e revendem — e qualquer variação no custo de aquisição aparece rápido no resultado.
+Distribuidoras de bebidas são as mais impactadas na cadeia. Elas compram volume, estocam e revendem. Qualquer variação no custo de aquisição aparece rápido no resultado.
 
 ## Quando o Imposto Seletivo entra em vigor
 
@@ -46,7 +46,7 @@ Revise a composição do seu faturamento. Qual percentual vem de bebidas alcoól
 
 Converse com os seus fornecedores de bebidas sobre como eles estão se preparando para o IS. Distribuidoras bem preparadas vão conseguir trabalhar com preços mais estáveis na transição. Distribuidoras despreparadas vão repassar incerteza para você.
 
-Revise a sua formação de preço agora, antes de 2027. Cardápios com preço de bebida calculado sem considerar o IS vão precisar de ajuste — e ajuste de preço planejado é muito mais barato do que ajuste na urgência.
+Revise a sua formação de preço agora, antes de 2027. Cardápios com preço de bebida calculado sem considerar o IS vão precisar de ajuste. Ajuste planejado é muito mais barato do que ajuste feito na urgência.
 
 O Imposto Seletivo não vai acabar com bares e restaurantes. Mas vai mudar a equação de margem de qualquer operação que depende de bebidas para ser rentável.
 

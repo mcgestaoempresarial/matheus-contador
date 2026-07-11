@@ -22,13 +22,13 @@ Cada nota precisará informar o valor de IBS e CBS calculado sobre aquela opera�
 
 ## Quem está obrigado
 
-Empresas no regime regular de tributação — Lucro Real e Lucro Presumido — estão sujeitas à obrigação a partir de 1º de agosto.
+Empresas no regime regular de tributação (Lucro Real e Lucro Presumido) estão sujeitas à obrigação a partir de 1º de agosto.
 
 Empresas no Simples Nacional estão dispensadas por enquanto. A discussão sobre a inclusão do Simples nessa obrigação está prevista para setembro de 2026, com possível vigência a partir de 2027.
 
 ## Quais são as alíquotas de teste
 
-Em 2026, o IBS e a CBS ainda estão em fase de implementação com alíquotas reduzidas: 0,1% de IBS e 0,9% de CBS. O impacto financeiro é pequeno nessa fase. O impacto operacional — sistema atualizado, nota emitida corretamente — é o que importa agora.
+Em 2026, o IBS e a CBS ainda estão em fase de implementação com alíquotas reduzidas: 0,1% de IBS e 0,9% de CBS. O impacto financeiro é pequeno nessa fase. O impacto operacional é o que importa agora: sistema atualizado, nota emitida corretamente.
 
 As alíquotas plenas entram de forma gradual a partir de 2027.
 
@@ -44,7 +44,7 @@ Se você tem operações de venda para outros estados, o IBS vai direcionar part
 
 ## Por que isso importa além da obrigação
 
-A obrigatoriedade de agosto é o primeiro passo prático da Reforma Tributária para quem está no regime regular. A partir daqui, o sistema começa a funcionar de verdade — com dados reais, operações reais e notas fiscais que precisam estar corretas.
+A obrigatoriedade de agosto é o primeiro passo prático da Reforma Tributária para quem está no regime regular. A partir daqui, o sistema começa a funcionar de verdade: dados reais, operações reais e notas fiscais que precisam estar corretas.
 
 Empresa que chega em agosto com o sistema atualizado e a equipe treinada passa por essa transição sem perceber. Empresa que chega despreparada vai lidar com rejeição de nota, cliente sem documento fiscal e operação travada no pior momento possível.
 

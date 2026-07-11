@@ -1,7 +1,7 @@
 ---
 titulo: "Taxa de entrega do delivery: como ela é tributada e o que o STF já decidiu"
 slug: taxa-entrega-delivery-tributacao-restaurante
-resumo: "A tributação da taxa de entrega no delivery ainda gera confusão. O STF e o STJ já têm posição consolidada sobre o assunto — e ignorar isso pode resultar em autuação fiscal."
+resumo: "A tributação da taxa de entrega no delivery ainda gera confusão. O STF e o STJ já têm posição consolidada sobre o assunto. Ignorar isso pode resultar em autuação fiscal."
 categoria: Gestão Financeira
 data: 2026-07-11
 autor: Matheus Contador
@@ -10,15 +10,15 @@ destaque: false
 
 Delivery cresceu, virou rotina e hoje responde por uma fatia relevante do faturamento de boa parte dos restaurantes brasileiros. Mas uma dúvida persiste: a taxa de entrega que o cliente paga é tributada como receita do restaurante?
 
-A resposta não é simples, e depende de como essa taxa é cobrada e contabilizada. STF e STJ já se posicionaram sobre partes dessa questão — e ignorar a jurisprudência consolidada é caminho certo para autuação.
+A resposta não é simples, e depende de como essa taxa é cobrada e contabilizada. STF e STJ já se posicionaram sobre partes dessa questão. Ignorar a jurisprudência consolidada é caminho certo para autuação.
 
 ## O problema começa na origem
 
 Quando um restaurante cobra taxa de entrega, existem dois cenários possíveis.
 
-No primeiro, o restaurante faz a entrega com motoboy próprio ou terceirizado por conta própria. A taxa de entrega entra como receita da empresa — é um serviço prestado pelo restaurante. Nesse caso, a tributação segue o regime da empresa: Simples, Presumido ou Real.
+No primeiro, o restaurante faz a entrega com motoboy próprio ou terceirizado por conta própria. A taxa de entrega entra como receita da empresa, pois é um serviço prestado pelo restaurante. A tributação segue o regime da empresa: Simples, Presumido ou Real.
 
-No segundo cenário, a taxa de entrega é repassada integralmente para o entregador — o restaurante funciona apenas como intermediário entre o cliente e o entregador. Se o repasse for comprovado e documentado, a taxa não é receita do restaurante.
+No segundo cenário, a taxa de entrega é repassada integralmente para o entregador. O restaurante funciona apenas como intermediário entre o cliente e o entregador. Se o repasse for comprovado e documentado, a taxa não é receita do restaurante.
 
 O problema é que muitos donos de restaurante cobram taxa de entrega, usam esse valor no caixa de forma indistinta e não têm documentação que comprove o repasse. Na prática, a taxa vira receita sem ser declarada como tal.
 
@@ -26,7 +26,7 @@ O problema é que muitos donos de restaurante cobram taxa de entrega, usam esse 
 
 O debate tributário sobre frete e taxa de entrega tem décadas de jurisprudência. As posições consolidadas mais relevantes para o food service são duas.
 
-O ISS incide sobre a prestação de serviços de transporte dentro do município. Se o restaurante presta o serviço de entrega — mesmo que seja entrega de comida — e cobra por isso, há incidência de ISS sobre esse valor. Isso vale para motoboy próprio e para terceirizado quando o contrato é do restaurante com o entregador.
+O ISS incide sobre a prestação de serviços de transporte dentro do município. Se o restaurante presta o serviço de entrega e cobra por isso, há incidência de ISS sobre esse valor. Isso vale para motoboy próprio e para terceirizado quando o contrato é do restaurante com o entregador.
 
 O ICMS não incide sobre entrega de produto quando a entrega é uma atividade acessória à venda. O STJ consolidou o entendimento de que frete incluído no preço da mercadoria ou cobrado separadamente como condição da venda não é base de cálculo de ICMS. Mas esse entendimento exige que a entrega seja configurada como acessória à venda, não como serviço autônomo.
 
@@ -34,7 +34,7 @@ O ICMS não incide sobre entrega de produto quando a entrega é uma atividade ac
 
 Quem opera pelo iFood, Rappi ou Uber Eats tem uma camada adicional de complexidade.
 
-As plataformas retêm a taxa de serviço delas antes de repassar o valor para o restaurante. Esse repasse aparece no relatório da plataforma, mas a forma como o restaurante contabiliza esse fluxo — o que entra como receita, o que é deduzido como custo de plataforma — precisa estar correta.
+As plataformas retêm a taxa de serviço delas antes de repassar o valor para o restaurante. Esse repasse aparece no relatório da plataforma, mas a forma como o restaurante contabiliza esse fluxo precisa estar correta: o que entra como receita e o que é deduzido como custo de plataforma.
 
 A Receita Federal tem cruzado dados de plataformas digitais com declarações de restaurantes. Divergência entre o que a plataforma reportou e o que o restaurante declarou é ponto de atenção para autuação.
 
@@ -42,7 +42,7 @@ A Receita Federal tem cruzado dados de plataformas digitais com declarações de
 
 Separe a contabilização da taxa de entrega da receita de alimentação. São naturezas diferentes e precisam aparecer assim no DRE.
 
-Se você usa motoboy próprio, o custo com esse profissional precisa estar registrado como despesa operacional. A taxa de entrega que o cliente paga cobre parte desse custo — e a diferença, positiva ou negativa, aparece no resultado.
+Se você usa motoboy próprio, o custo com esse profissional precisa estar registrado como despesa operacional. A taxa de entrega que o cliente paga cobre parte desse custo. A diferença, positiva ou negativa, aparece no resultado.
 
 Se você usa entregador autônomo com repasse integral da taxa, documente esse repasse. Comprovante de pagamento, recibo, qualquer registro que demonstre que o dinheiro não ficou no caixa do restaurante.
 

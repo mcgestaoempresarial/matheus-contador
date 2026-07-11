@@ -10,13 +10,13 @@ destaque: false
 
 Existe um movimento silencioso acontecendo no mercado: empresas que sempre foram do Lucro Presumido estão sendo empurradas para o Lucro Real.
 
-Não por obrigação legal — mas porque o novo sistema tributário vai tornar o Lucro Real mais vantajoso para uma fatia maior de negócios do que era antes.
+Não por obrigação legal. O novo sistema tributário vai tornar o Lucro Real mais vantajoso para uma fatia maior de negócios do que era antes.
 
 Quem entender isso agora, e migrar com planejamento, chega em 2027 pagando menos imposto. Quem não entender vai continuar no regime errado por mais um ano inteiro.
 
 ## Por que o Lucro Presumido está ficando menos vantajoso
 
-No Lucro Presumido, o imposto é calculado sobre uma margem que o governo presume — independente do que a empresa realmente lucrou. Para comércio, essa margem presumida é 8%. Para serviços, 32%.
+No Lucro Presumido, o imposto é calculado sobre uma margem que o governo presume, independente do que a empresa realmente lucrou. Para comércio, essa margem presumida é 8%. Para serviços, 32%.
 
 Quando a empresa tem margem real próxima da presumida, o regime faz sentido. Quando a margem real é menor, a empresa paga imposto sobre um lucro que não existiu.
 
@@ -48,6 +48,6 @@ Isso significa que o processo de análise e preparação precisa começar agora.
 
 A análise leva tempo: levantamento dos dados reais de faturamento e margem, simulação comparativa entre os regimes, revisão dos processos contábeis. Empresa que começa em outubro vai correndo para cumprir prazo. Empresa que começa em julho chega em janeiro tranquila.
 
-Cada ano de regime errado tem um custo que não volta. A diferença entre fazer a análise em julho e fazer em dezembro é a mesma decisão — com muito mais tempo para executar bem.
+Cada ano de regime errado tem um custo que não volta. A diferença entre fazer a análise em julho e fazer em dezembro é a mesma decisão. Com muito mais tempo para executar bem.
 
 Entre em contato com a MC Gestão Empresarial para uma simulação comparativa entre Lucro Presumido e Lucro Real com os números reais do seu negócio. A equipe apresenta quanto você paga em cada regime no cenário atual e no cenário com IBS e CBS.

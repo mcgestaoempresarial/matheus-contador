@@ -12,11 +12,11 @@ destaque: false
 
 O dado é da ABRASEL e ele muda completamente a conversa sobre por que restaurantes quebram.
 
-Não é falta de cliente. É falta de gestão. O salão cheio, o delivery funcionando, o faturamento crescendo — e o negócio indo para o buraco devagar, enquanto o dono olha para o movimento e acha que está bem.
+Não é falta de cliente. É falta de gestão. O salão cheio, o delivery funcionando, o faturamento crescendo. E o negócio indo para o buraco devagar, enquanto o dono olha para o movimento e acha que está bem.
 
 ## O que acontece quando o faturamento engana
 
-Faturamento é quanto entra. Lucro é quanto sobra. São dois números completamente diferentes, e confundir um com o outro é o erro mais comum — e mais caro — que donos de restaurante cometem.
+Faturamento é quanto entra. Lucro é quanto sobra. São dois números completamente diferentes, e confundir um com o outro é o erro mais comum e mais caro que donos de restaurante cometem.
 
 Um restaurante pode faturar R$ 200 mil por mês e ter margem de 3%. São R$ 6 mil de lucro real numa operação que parece grande. Se o dono precisa de R$ 10 mil por mês para viver e retira esse valor sem critério, o negócio está consumindo capital sem que ninguém perceba.
 
@@ -24,7 +24,7 @@ Isso não aparece no movimento do salão. Aparece no extrato bancário, três me
 
 ## Os três pontos onde o dinheiro some
 
-**CMV fora de controle.** O Custo de Mercadoria Vendida — quanto você gasta para produzir o que vende — é o indicador mais importante do food service. Para restaurante à la carte, o CMV saudável fica entre 25% e 28% do faturamento. Para delivery, entre 32% e 35%.
+**CMV fora de controle.** O Custo de Mercadoria Vendida é quanto você gasta para produzir o que vende. É o indicador mais importante do food service. Para restaurante à la carte, o CMV saudável fica entre 25% e 28% do faturamento. Para delivery, entre 32% e 35%.
 
 Quando o CMV está acima da faixa, o restaurante perde dinheiro em cada prato vendido sem perceber. As causas mais comuns são desperdício invisível, ficha técnica desatualizada e fornecedor que nunca foi renegociado.
 
@@ -56,6 +56,6 @@ Separe a conta pessoal da empresa hoje. Abra uma conta bancária só para o rest
 
 Exija o DRE mensal do seu contador. Se ele não entrega em até cinco dias do mês seguinte, isso precisa ser conversado. Você não pode tomar decisão com informação de 45 dias atrás.
 
-O restaurante cheio não é garantia de lucro. Nunca foi. O que garante o lucro é saber o que está acontecendo com o dinheiro do negócio — todo mês, com números reais.
+O restaurante cheio não é garantia de lucro. Nunca foi. O que garante o lucro é saber o que está acontecendo com o dinheiro do negócio. Todo mês, com números reais.
 
 Entre em contato com a MC Gestão Empresarial. A equipe faz o diagnóstico financeiro do seu restaurante, calcula o CMV real, organiza o DRE e te mostra exatamente onde o dinheiro está indo.
