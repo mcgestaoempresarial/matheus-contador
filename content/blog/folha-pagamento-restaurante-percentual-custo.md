@@ -14,19 +14,23 @@ No food service, o custo real com pessoal inclui encargos, benefícios e provis�
 
 ## O que compõe o custo real com pessoal
 
-Para cada funcionário com carteira assinada, o custo vai além do salário bruto.
+Para cada funcionário com carteira assinada, o custo vai muito além do salário. Veja o exemplo de um funcionário com salário base de R$ 2.000:
 
-**INSS patronal:** 20% sobre o salário bruto, recolhido pela empresa.
+| Item | Base | % | Valor mensal |
+|---|---|---|---|
+| Salário base | | | R$ 2.000,00 |
+| INSS patronal | R$ 2.000,00 | 25% | R$ 500,00 |
+| FGTS | R$ 2.000,00 | 8% | R$ 160,00 |
+| Provisão 13º | R$ 2.000,00 | 8,33% | R$ 166,67 |
+| Provisão férias | R$ 2.000,00 | 8,33% | R$ 166,67 |
+| Provisão 1/3 de férias | R$ 2.000,00 | 2,78% | R$ 55,56 |
+| FGTS sobre 13º e férias | R$ 388,90 | 8% | R$ 31,11 |
+| Provisão multa 40% FGTS | R$ 191,11 | 40% | R$ 76,44 |
+| **Custo total** | | | **R$ 3.156,45** |
 
-**FGTS:** 8% sobre o salário bruto, depositado mensalmente na conta do funcionário.
+Um funcionário com salário de R$ 2.000 custa R$ 3.156 por mês para a empresa. Quase 58% a mais do que o salário que aparece na carteira.
 
-**13º salário:** equivale a um salário extra por ano, que deve ser provisionado mensalmente. Na prática, representa 8,33% do salário bruto por mês.
-
-**Férias mais adicional de um terço:** o funcionário tem direito a 30 dias de férias por ano, com adicional de um terço sobre o valor. Provisionando mensalmente, representa cerca de 11,1% do salário.
-
-**Outras provisões:** dependendo da convenção coletiva do sindicato da categoria, podem existir vale-transporte, vale-alimentação, seguro de vida e outros benefícios obrigatórios.
-
-Somando apenas os encargos obrigatórios (INSS, FGTS, 13º e férias), o custo real de um funcionário gira em torno de 65% a 75% acima do salário bruto. Um funcionário com salário de R$ 2.000 pode custar entre R$ 3.300 e R$ 3.500 por mês para a empresa.
+Esse cálculo não inclui vale-transporte, vale-alimentação nem outros benefícios previstos na convenção coletiva da categoria, que podem adicionar mais R$ 300 a R$ 500 dependendo da cidade e do sindicato.
 
 ## Qual o percentual ideal no food service
 
