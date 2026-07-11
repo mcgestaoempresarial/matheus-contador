@@ -12,25 +12,45 @@ O salário que aparece na carteira do funcionário é só uma parte do que você
 
 No food service, o custo real com pessoal inclui encargos, benefícios e provisões que muitos donos de restaurante nunca somaram. Quando somam, o número surpreende.
 
-## O que compõe o custo real com pessoal
+## O custo real por regime tributário
 
-Para cada funcionário com carteira assinada, o custo vai muito além do salário. Veja o exemplo de um funcionário com salário base de R$ 2.000:
+O custo com pessoal muda conforme o regime da empresa. No Simples Nacional, o INSS patronal está incluído no DAS e não é cobrado separadamente. No Lucro Presumido e no Lucro Real, ele é pago à parte.
 
-| Item | Base | % | Valor mensal |
-|---|---|---|---|
-| Salário base | | | R$ 2.000,00 |
-| INSS patronal | R$ 2.000,00 | 25% | R$ 500,00 |
-| FGTS | R$ 2.000,00 | 8% | R$ 160,00 |
-| Provisão 13º | R$ 2.000,00 | 8,33% | R$ 166,67 |
-| Provisão férias | R$ 2.000,00 | 8,33% | R$ 166,67 |
-| Provisão 1/3 de férias | R$ 2.000,00 | 2,78% | R$ 55,56 |
-| FGTS sobre 13º e férias | R$ 388,90 | 8% | R$ 31,11 |
-| Provisão multa 40% FGTS | R$ 191,11 | 40% | R$ 76,44 |
-| **Custo total** | | | **R$ 3.156,45** |
+Veja o exemplo de um funcionário com salário base de R$ 2.000:
 
-Um funcionário com salário de R$ 2.000 custa R$ 3.156 por mês para a empresa. Quase 58% a mais do que o salário que aparece na carteira.
+**Simples Nacional**
 
-Esse cálculo não inclui vale-transporte, vale-alimentação nem outros benefícios previstos na convenção coletiva da categoria, que podem adicionar mais R$ 300 a R$ 500 dependendo da cidade e do sindicato.
+| Item | Base | % | Valor mensal | % sobre salário |
+|---|---|---|---|---|
+| Salário base | | | R$ 2.000,00 | 100% |
+| INSS patronal | Isento | incluído no DAS | R$ 0,00 | 0% |
+| FGTS | R$ 2.000,00 | 8% | R$ 160,00 | 8% |
+| Provisão 13º | R$ 2.000,00 | 8,33% | R$ 166,67 | 8,33% |
+| Provisão férias | R$ 2.000,00 | 8,33% | R$ 166,67 | 8,33% |
+| Provisão 1/3 férias | R$ 2.000,00 | 2,78% | R$ 55,56 | 2,78% |
+| FGTS sobre 13º e férias | R$ 388,90 | 8% | R$ 31,11 | 1,56% |
+| Provisão multa 40% FGTS | R$ 191,11 | 40% | R$ 76,44 | 3,82% |
+| **Custo total** | | | **R$ 2.656,45** | **+32,82%** |
+
+**Lucro Presumido e Lucro Real**
+
+| Item | Base | % | Valor mensal | % sobre salário |
+|---|---|---|---|---|
+| Salário base | | | R$ 2.000,00 | 100% |
+| INSS patronal | R$ 2.000,00 | 25% | R$ 500,00 | 25% |
+| FGTS | R$ 2.000,00 | 8% | R$ 160,00 | 8% |
+| Provisão 13º | R$ 2.000,00 | 8,33% | R$ 166,67 | 8,33% |
+| Provisão férias | R$ 2.000,00 | 8,33% | R$ 166,67 | 8,33% |
+| Provisão 1/3 férias | R$ 2.000,00 | 2,78% | R$ 55,56 | 2,78% |
+| FGTS sobre 13º e férias | R$ 388,90 | 8% | R$ 31,11 | 1,56% |
+| Provisão multa 40% FGTS | R$ 191,11 | 40% | R$ 76,44 | 3,82% |
+| **Custo total** | | | **R$ 3.156,45** | **+57,82%** |
+
+No Simples Nacional, o funcionário de R$ 2.000 custa R$ 2.656 por mês, ou seja, 32,82% a mais que o salário base. No Lucro Presumido e no Lucro Real, o mesmo funcionário custa R$ 3.156, representando 57,82% a mais.
+
+A diferença entre os regimes é de R$ 500 por funcionário por mês, somente pelo INSS patronal. Com 5 funcionários, são R$ 2.500 a mais todo mês.
+
+Esses cálculos não consideram vale-transporte nem vale-refeição, que variam conforme a convenção coletiva da categoria e a cidade. Dependendo do sindicato, podem adicionar entre R$ 300 e R$ 500 por funcionário ao custo mensal.
 
 ## Qual o percentual ideal no food service
 
